@@ -1,0 +1,5 @@
+rootProject.name='XusuButterKnife'
+include ':app'
+include ':annotation-lib'
+include ':annotation-compile'
+include ':butterknifelib'
